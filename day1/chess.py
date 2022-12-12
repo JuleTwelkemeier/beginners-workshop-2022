@@ -112,7 +112,7 @@ if __name__ == "__main__" :
         chess(
             "https://api.chess.com/pub/",
             ['hansontwitch', 'magnuscarlsen','vincentkeymer', 'dommarajugukesh', 'rpragchess', 'firouzja2003','ghandeevam2003', 'arjunerigaisi2003','chesswarrior7197','nihalsarin','jefferyx','xiong-dal','joppie2','andreikka'],
-            start_month='2022/07',
+            start_month='2021/07',
             end_month='2022/09'
         )
     )
